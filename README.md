@@ -7,3 +7,4 @@ more and more
 ANNND more
 ## How to contribute
 
+2017 Git.training
